@@ -1,0 +1,8 @@
+metric_name,metric,baseline_value
+Number of cookies,Unique cookies to view page per day:,40000.0
+Number of clicks,"Unique cookies to click ""Start free trial"" per day:",3200.0
+Number of enrollments,Enrollments per day:,660.0
+CTP,"Click-through-probability on ""Start free trial"":",0.08
+Gross Conversion,"Probability of enrolling, given click:",0.20625
+Retention,"Probability of payment, given enroll:",0.53
+Net Conversion,"Probability of payment, given click",0.1093125
